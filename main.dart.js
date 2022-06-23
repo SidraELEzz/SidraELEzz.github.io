@@ -80799,7 +80799,7 @@
         },
         FB() { return A.Mk(A.a8y("assets/images/home/mobile.png", this.c.T(t.w).f.a.a >= 1100 ? 800 : 600), null, null) },
         Yn() {
-            var s = "https://github.com/SidraELEzz/SidraELEzz.github.io/blob/main/OneClick-1.1.3v.apk?raw=true", r = A.a7C(s)
+            var s = "https://github.com/SidraELEzz/SidraELEzz.github.io/blob/main/OneClick-2.0.0v.apk?raw=true", r = A.a7C(s)
             r.download = s
             r.click()
         }
@@ -86152,7 +86152,7 @@
         B.Hi = new A.m(!0, B.j, null, null, null, null, 15, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null)
         B.In = new A.iC("Download", null, B.Hi, null, null, null, null, null, null)
         B.Hv = new A.m(!0, null, null, null, null, null, 15, B.b1, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null)
-        B.Io = new A.iC("OneClick App 1.1.3", null, B.Hv, null, null, null, null, null, null)
+        B.Io = new A.iC("OneClick App 2.0.0", null, B.Hv, null, null, null, null, null, null)
         B.Lm = new A.Ek(0, "system")
         B.Ip = new A.uV(0)
         B.Iq = new A.uV(0.5)
